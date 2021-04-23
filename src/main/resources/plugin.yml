@@ -1,0 +1,7 @@
+name: BaseMobSiege
+version: ${project.version}
+main: pl.bartlomiejstepien.basemobsiege.BaseMobSiege
+api-version: 1.16
+load: STARTUP
+authors: [ Aquerr ]
+description: Spigot plugin that creates mob siege events where mobs attacks your base
